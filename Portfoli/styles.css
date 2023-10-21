@@ -23,7 +23,6 @@ body {
     font-weight: bold;
 }ç
 
- /* Cambia el fondo del navbar a oscuro y el color del texto a blanco */
  .navbar-dark .navbar-nav .nav-link {
     color: white;
 }
